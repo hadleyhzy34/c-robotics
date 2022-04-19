@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hadley/development/c-robotics/path_planning/rrt/src/rrt.cpp
+rrt.h
+/home/hadley/development/c-robotics/path_planning/rrt/src/rrt.h
+fstream
+-
+
+/home/hadley/development/c-robotics/path_planning/rrt/src/rrt.h
+iostream
+-
+vector
+-
+random
+-
+
